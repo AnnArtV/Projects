@@ -1,12 +1,13 @@
 # Описание проекта 
 ## `"Анализ перспективного тарифа"`
-![](https://cdn0.iconfinder.com/data/icons/digital-marketing-1-5/48/50-1024.png){width=70 height=70}
+<img src="https://cdn0.iconfinder.com/data/icons/digital-marketing-1-5/48/50-1024.png" width="70" height="70">   
 
 Клиентам телеком компании - федерального оператора сотовой связи предлагают два тарифных плана: «Classic» и «Vip». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф по финансам выгоднее.Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов. В распоряжении данные 500 пользователей: их персональные сведения, каким тарифом пользуются, сколько звонков и сообщений, объём израсходованного трафика каждый отправил за 2023 год. Необходимо проанализировать поведение клиентов и сделать вывод о перспективном тарифе.
 _____
 
 ## `Описание тарифов`
-![](https://static.tildacdn.com/tild3665-3065-4962-a561-353636376361/pricepic.png){width=70 height=70}
+<img src="https://static.tildacdn.com/tild3665-3065-4962-a561-353636376361/pricepic.png" width="70" height="70"> 
+
 Описание|Тариф "Classic"|Тариф "Vip"
 :-------|:---------------|---------:
 Ежемесячная плата|550 руб. |1950 руб.
@@ -18,7 +19,8 @@ _____
 _____
 
 ## `Инструкция по выполнению проекта`
-![](https://w7.pngwing.com/pngs/902/386/png-transparent-book-report-free-content-annual-report-office-s-with-people-template-white-text.png){width=70 height=70}
+<img src="https://w7.pngwing.com/pngs/902/386/png-transparent-book-report-free-content-annual-report-office-s-with-people-template-white-text.png" width="70" height="70"> 
+
 #### 1. Открыть файл с данными и изучить общую информацию  
 [(I. Data reading)](Data%20analysis.ipynb)
 #### 2. Подготовить данные
