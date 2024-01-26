@@ -22,9 +22,9 @@ _____
 <img src="https://w7.pngwing.com/pngs/902/386/png-transparent-book-report-free-content-annual-report-office-s-with-people-template-white-text.png" width="70" height="70"> 
 
 #### 1. Открыть файл с данными и изучить общую информацию  
-[(I. Data reading)](Data%20analysis.ipynb)
+[I. Reading Data](Data%20analysis.ipynb)
 #### 2. Подготовить данные
-[(II. Data preparation)](Data%20analysis.ipynb)
+[II. Preparing Data](Data%20analysis.ipynb)
 
 :black_square_button: Привести данные к нужным типам;   
 :black_square_button: Найти и исправить ошибки в данных.  
@@ -37,7 +37,7 @@ _____
 - объем израсходованного интернет-трафика по месяцам; 
 - помесячную выручку с каждого пользователя (вычтите бесплатный лимит из суммарного количества звонков, сообщений и интернет-трафика; остаток умножьте на значение из тарифного плана; прибавьте абонентскую плату, соответствующую тарифному плану)
 #### 3. Проанализировать данные
-[(III. Data analysis)](./Data%20analysis.ipynb)
+[III. Data analysis](./Data%20analysis.ipynb)
 
 Описать поведение клиентов оператора:    
 :black_square_button: сколько минут разговора, сколько сообщений и какой объём интернет-трафика требуется пользователям каждого тарифа в месяц?    
