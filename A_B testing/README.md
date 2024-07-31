@@ -13,7 +13,7 @@
 
  ## Содержание проекта:
 
-1. Designing experiment 
+1. Designing experiment ()
 -  Choosing the variables
 -  Formulating a hypothesis
 
