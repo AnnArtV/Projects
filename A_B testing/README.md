@@ -13,17 +13,17 @@
 
  ## Содержание проекта:
 
-1. Designing experiment ()
--  Choosing the variables
--  Formulating a hypothesis
+1. Designing experiment (Проектирование)
+-  Choosing the variables (Выбор переменных)
+-  Formulating a hypothesis (Формулирование гипотезы)
 
-2. Reading Data     
-3. Preparing Data     
-4. Choosing a sample size      
-5. Sampling    
-6. Visualising the results     
-7. Testing the hypothesis      
-8. Drawing conclusions          
+2. Reading Data (Чтение данных)  
+3. Preparing Data (Подготовка данных)    
+4. Choosing a sample size (Выбор объёма выборки)     
+5. Sampling (Выборка данных)
+6. Visualising the results (Визуализация результатов)    
+7. Testing the hypothesis (Проверка гипотезы)     
+8. Сonclusions (Выводы)       
 
 ## Cценарий исследования:
 <img src="https://projectriskcoach.com/wp-content/uploads/2022/04/Monitor-Risks-1.jpg" width="150" height="70"> 
